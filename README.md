@@ -24,7 +24,7 @@
   <a href="https://codeforces.com/profile/AyushSinghCF">
     <img src="https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://twitter.com/your_twitter">
+  <a href="https://x.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
@@ -104,5 +104,10 @@
 ---
 
 <div align="center">
-  Made with ❤️ and ☕ • Thanks for stopping by!
+
+♟️ Just like in chess, I believe every move in code should be smart and strategic.<br/>
+Thanks for scrolling this far — you’ve reached the endgame!<br/>
+
+✨ Feel free to connect, collaborate, or just say hi. Let’s build something awesome together!
+
 </div>
