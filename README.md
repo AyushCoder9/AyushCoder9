@@ -85,17 +85,10 @@
 
 ---
 
-## 📊 Additional Badges & Widgets
+## 📊 Visitors Count
 
 <p align="center">
-  <!-- Visitor Count -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AyushCoder9" alt="Visitor Badge" />
-
-  <!-- Wakatime Coding Stats -->
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime Stats" />
-
-  <!-- Spotify Now Playing -->
-  <img src="https://spotify-readme.now.sh/api/spotify" alt="Spotify Now Playing" />
 </p>
 
 ---
