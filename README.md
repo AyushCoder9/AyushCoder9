@@ -1,8 +1,3 @@
-<!--
-  README.md for Ayush Kumar Singh's GitHub Profile
-  Dark-theme, with animations, badges, stats, trophies, and professional touch
--->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7AB0A&width=600&lines=👋+Hi%2C+I'm+Ayush+Kumar+Singh;Full-Stack+Developer;Chess+Enthusiast♟️" alt="Typing SVG" />
 </p>
@@ -16,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/ayushsingh9/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/ayushsinghcf">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
