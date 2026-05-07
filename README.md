@@ -6,10 +6,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0d0b&height=220&section=header&text=Ayush%20Kumar%20Singh&fontSize=50&fontColor=d97757&animation=twinkling&fontAlignY=35&desc=Architecting%20Intelligent%20Systems&descSize=18&descAlignY=58&descColor=f1ead8" width="100%"/>
 
+<br/>
+
+<a href="https://ayushkumarsingh-six.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Explore_My_Interactive_Portfolio_→-0e0d0b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=d97757&color=0e0d0b" height="45" alt="Portfolio CTA"/>
+</a>
+
+<br/><br/>
+
 <p align="center">
-  <a href="https://ayushkumarsingh-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_Portfolio-d97757?style=for-the-badge&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/ayush-kumar-singh-910379320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
