@@ -29,9 +29,7 @@
 <!--                     ABOUT ME                           -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=ABOUT%20ME&fontSize=32&fontColor=d97757&fontAlignY=50" alt="About Me" />
-</h2>
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 <table width="100%" align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -60,9 +58,7 @@
 <!--                   TECH ARSENAL                         -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=TECH%20ARSENAL&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Tech Stack" />
-</h2>
+<h2 align="center">✦ TECH ARSENAL ✦</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -83,9 +79,7 @@
 <!--                FEATURED ARCHITECTURES                  -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=FEATURED%20ARCHITECTURES&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Projects" />
-</h2>
+<h2 align="center">✦ FEATURED ARCHITECTURES ✦</h2>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -120,15 +114,13 @@
 <!--                   STATS & ACTIVITY                     -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=METRICS%20%26%20ACTIVITY&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Stats" />
-</h2>
+<h2 align="center">✦ METRICS & ACTIVITY ✦</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushCoder9&show_icons=true&theme=dark&bg_color=0e0d0b&title_color=d97757&icon_color=6b9080&text_color=f1ead8&border_color=2c2820&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AyushCoder9&show_icons=true&theme=dark&bg_color=0e0d0b&title_color=d97757&icon_color=6b9080&text_color=f1ead8&border_color=2c2820&hide_border=false"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCoder9&layout=compact&theme=dark&bg_color=0e0d0b&title_color=d97757&text_color=f1ead8&border_color=2c2820&hide_border=false&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCoder9&layout=compact&theme=dark&bg_color=0e0d0b&title_color=d97757&text_color=f1ead8&border_color=2c2820&hide_border=false&langs_count=8"/>
 
 <br/><br/>
 
@@ -142,9 +134,7 @@
 <!--               CONTRIBUTION SNAKE                       -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=CONTRIBUTIONS&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Contributions" />
-</h2>
+<h2 align="center">✦ CONTRIBUTIONS ✦</h2>
 
 <div align="center">
 
