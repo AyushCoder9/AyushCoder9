@@ -30,14 +30,14 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=4000&pause=1000&color=D97757&center=true&vCenter=true&width=400&lines=✦+ABOUT+ME+✦;✦+MY+VISION+✦;✦+THE+ARCHITECT+✦" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=ABOUT%20ME&fontSize=32&fontColor=d97757&fontAlignY=50" alt="About Me" />
 </h2>
 
 <table width="100%" align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none; padding: 20px;">
       <a href="https://ayushkumarsingh-six.vercel.app/">
-        <img src="https://raw.githubusercontent.com/AyushCoder9/AyushCoder9/main/assets/3d-core.gif" onerror="this.src='https://i.pinimg.com/originals/1c/ca/4d/1cca4d257dcce533e144a15a01344265.gif'" width="320" style="border-radius: 20px;" alt="Dynamic Tech Animation" />
+        <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="320" style="border-radius: 20px;" alt="Dynamic Tech Animation" />
       </a>
     </td>
     <td width="50%" style="border: none; padding: 20px;">
@@ -61,7 +61,7 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=4000&pause=1000&color=D97757&center=true&vCenter=true&width=400&lines=✦+TECH+ARSENAL+✦;✦+THE+TOOLS+✦" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=TECH%20ARSENAL&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Tech Stack" />
 </h2>
 
 <p align="center">
@@ -84,7 +84,7 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=4000&pause=1000&color=D97757&center=true&vCenter=true&width=500&lines=✦+FEATURED+ARCHITECTURES+✦;✦+RECENT+BUILDS+✦" alt="Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=FEATURED%20ARCHITECTURES&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Projects" />
 </h2>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -121,14 +121,14 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=4000&pause=1000&color=D97757&center=true&vCenter=true&width=400&lines=✦+METRICS+&+ACTIVITY+✦" alt="Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=METRICS%20%26%20ACTIVITY&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Stats" />
 </h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushCoder9&show_icons=true&theme=dark&bg_color=0e0d0b&title_color=d97757&icon_color=6b9080&text_color=f1ead8&border_color=2c2820&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushCoder9&show_icons=true&theme=dark&bg_color=0e0d0b&title_color=d97757&icon_color=6b9080&text_color=f1ead8&border_color=2c2820&hide_border=false"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCoder9&layout=compact&theme=dark&bg_color=0e0d0b&title_color=d97757&text_color=f1ead8&border_color=2c2820&hide_border=false&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCoder9&layout=compact&theme=dark&bg_color=0e0d0b&title_color=d97757&text_color=f1ead8&border_color=2c2820&hide_border=false&langs_count=8"/>
 
 <br/><br/>
 
@@ -143,7 +143,7 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=4000&pause=1000&color=D97757&center=true&vCenter=true&width=400&lines=✦+CONTRIBUTIONS+✦" alt="Contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=CONTRIBUTIONS&fontSize=32&fontColor=d97757&fontAlignY=50" alt="Contributions" />
 </h2>
 
 <div align="center">
