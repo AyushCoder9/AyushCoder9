@@ -81,32 +81,35 @@
 
 <h2 align="center">✦ FEATURED ARCHITECTURES ✦</h2>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" style="border: 1px solid #2c2820; padding: 20px; border-radius: 12px;">
-      <h3 align="center"><a href="https://github.com/AyushCoder9/ContraLegal-AI" style="color: #d97757;">⚖️ ContraLegal AI</a></h3>
-      <p align="center"><b>FastAPI · LegalBERT · RAG</b></p>
-      <p align="center">End-to-end NLP pipeline for legal document analysis, clause segmentation, and automated risk scoring hitting 97.26% F1.</p>
-    </td>
-    <td width="50%" style="border: 1px solid #2c2820; padding: 20px; border-radius: 12px;">
-      <h3 align="center"><a href="https://github.com/AyushCoder9/PromptPrep" style="color: #d97757;">🤖 PromptPrep AI</a></h3>
-      <p align="center"><b>Next.js · Gemini API · MongoDB</b></p>
-      <p align="center">RAG-powered educational platform that parses uploaded documents and auto-generates adaptive quizzes and flashcards.</p>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="50%" style="border: 1px solid #2c2820; padding: 20px; border-radius: 12px;">
-      <h3 align="center"><a href="https://github.com/angelonels/Impactify" style="color: #d97757;">📊 Impactify</a></h3>
-      <p align="center"><b>Next.js · Gemini API · Prisma</b></p>
-      <p align="center">Text-to-Insight platform converting natural language prompts into automated SQL queries and visual data analytics.</p>
-    </td>
-    <td width="50%" style="border: 1px solid #2c2820; padding: 20px; border-radius: 12px;">
-      <h3 align="center"><a href="https://github.com/AyushCoder9/Nexus-AI-Debate-System" style="color: #d97757;">🗣️ Nexus AI Debate</a></h3>
-      <p align="center"><b>Python · LangGraph · FastAPI</b></p>
-      <p align="center">Multi-agent orchestration engine where independent AI agents argue opposing positions through dynamic reasoning chains.</p>
-    </td>
-  </tr>
-</table>
+<br/>
+
+### ⚖️ [ContraLegal AI](https://github.com/AyushCoder9/ContraLegal-AI)
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LegalBERT-1C3C3C?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+> **End-to-end NLP pipeline** for legal document analysis, clause segmentation, and automated risk scoring hitting 97.26% F1.
+
+<br/>
+
+### 🤖 [PromptPrep AI](https://github.com/AyushCoder9/PromptPrep)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+> **RAG-powered educational platform** that parses uploaded documents and auto-generates adaptive quizzes and flashcards.
+
+<br/>
+
+### 📊 [Impactify](https://github.com/angelonels/Impactify)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white"/>
+> **Text-to-Insight platform** converting natural language prompts into automated SQL queries and visual data analytics.
+
+<br/>
+
+### 🗣️ [Nexus AI Debate System](https://github.com/AyushCoder9/Nexus-AI-Debate-System)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+> **Multi-agent orchestration engine** where independent AI agents argue opposing positions through dynamic reasoning chains.
+
+<br/>
+
+### 📋 [Candidate Referral Management](https://github.com/AyushCoder9/Candidate-Referral-Management)
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+> **Full-stack enterprise platform** streamlining internal employee referrals with secure authentication, cloud resume uploads, and an admin dashboard.
 
 <br/>
 
